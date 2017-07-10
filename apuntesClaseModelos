@@ -1,0 +1,9 @@
+controllers make:controller, estan en app/http/controllers
+----
+
+php artisan make:model
+dentro de app aprecen sueltos
+cada modelo se relaciona con una tabla
+
+	
+	
